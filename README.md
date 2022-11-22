@@ -4,7 +4,9 @@
 > Big brother is watching you.
 
 ## TODO
+- [ ] Usage counter
 - [ ] Output to log file
+- [ ] Dump game data
 - [ ] Implement features
 - [ ] TODO...
 
